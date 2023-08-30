@@ -1,5 +1,5 @@
-Nama    : Kevin Ivan Eda Radhiyya
+Nama    : Ghaisan Luqyana Aqila
 
-NPM     : 2201233210
+NPM     : 2206830460
 
 Kelas   : PBP B
